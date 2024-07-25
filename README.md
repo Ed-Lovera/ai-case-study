@@ -1,16 +1,40 @@
 # Microsoft Azure AI Document Intelligence
 
+## Table of Contents
+
+1. [Summary](#summary)
+2. [Overview and Origin](#overview-and-origin)
+3. [Business Activities](#business-activities)
+4. [Landscape](#landscape)
+5. [Results](#results)
+6. [Recommendations](#recommendations)
+7. [References](#references)
+
+## Summary
+
+  This case study examines Microsoft Azure AI Document Intelligence, a product
+within Microsoft's Azure AI suite. Launched in 2020, Azure AI Document
+Intelligence automates document processing and information extraction using
+Optical Character Recognition (OCR) and Machine Learning (ML) technologies.
+The study explores the product's origins, business activities, technological
+landscape, market impact, and potential improvements. It highlights Azure AI
+Document Intelligence's role in Microsoft's cloud services strategy and its
+competitive position in the rapidly evolving field of AI-powered document
+processing. The analysis draws on various sources to provide insights into the
+product's development, capabilities, and market performance within the broader
+context of Microsoft's AI offerings and the competitive landscape of cloud-based
+AI services.
+
 ## Overview and Origin
 
   Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975 
 (Wikipedia, n.d.). Microsoft's product Azure AI Document Intelligence was first
 referenced on October 2, 2019 under the product's previous name, Azure Form
-Recognizer (Microsoft, October 2, 2019). The product was made publicly avaiable
+Recognizer (Microsoft, October 2, 2019). The product was made publicly available
 on July 8, 2020 (Microsoft, July 8, 2020). As a part of Microsoft's Azure AI
 suite of products. The purpose of Azure AI Document Intelligence is to provide
 businesses with a tool to automate document processing and extraction of
-information from documents (Microsoft, 2024), a form of Optical Character
-Recognition (OCR). 
+information from documents (Microsoft, 2024), a form of OCR. 
 
   Although little information is available on the specific origins of Azure AI
 Document Intelligence, it is likely that the product was developed in response
@@ -26,14 +50,14 @@ Microsoft's overall business plan to provide comprehensive cloud services to
 businesses (David Curry, December 29, 2022).
 
   When it comes to custom OCR models, Azure AI Document Intelligence offers
-exceptional acurracy with a fast time to implement. Azure Document intelligences
+exceptional accuracy with a fast time to implement. Azure Document intelligences
 combines their pre-built models with their "run-layout" tool that automatically
 labels custom documents for fast document preparation and training
 (fredwu, September 16, 2023).
 
-  Azure AI Document Intelligence uses Machine Learning paired with OCR to extract
-data such as text and tables from documents. Although the specific of how these
-are implemented and the hardware used are not publicly available.
+  Azure AI Document Intelligence uses ML paired with OCR to extract data such as
+text and tables from documents. Although the specific of how these are
+implemented and the hardware used are not publicly available.
 
 ## Landscape
 
@@ -45,11 +69,11 @@ with a chatbot interface to interact with their documents
 
 ## Results
 
-  Although the specific financial impact of Azure AI Document Intelligence is not
-publicly available, it is likely that the product has had a positive impact on
-Microsoft's overall revenue and market share. Microsoft's revenue has been on a
-steady since the release of Azure AI in 2014 and that trend has kept pace since
-the release of Azure AI Document Intelligence in 2020 (Macrotrends, 2024).
+  Although the specific financial impact of Azure AI Document Intelligence is
+not publicly available, it is likely that the product has had a positive impact
+on Microsoft's overall revenue and market share. Microsoft's revenue has been on
+a steady since the release of Azure AI in 2014 and that trend has kept pace
+since the release of Azure AI Document Intelligence in 2020 (Macrotrends, 2024).
 
 In relation to other companies in the field, Microsoft has been able to maintain
 a steady place in third position in terms of revenue behind Google and Amazon.
@@ -58,9 +82,9 @@ growth of Microsoft and the other two companies (Macrotrends, 2024).
 
 ## Recommendations
 
-  A recommendation to improve the product would be to offer a capcha like service 
-that can be easily implemented into existing websites. So that as a user of
-Azure AI Document Intelligence, I could verify that documents are processed
+  A recommendation to improve the product would be to offer a captcha like
+service that can be easily implemented into existing websites. So that as a user
+of Azure AI Document Intelligence, I could verify that documents are processed
 correctly and provide a way to improve the model.
 
 ## References
